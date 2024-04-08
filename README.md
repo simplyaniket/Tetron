@@ -1,2 +1,2 @@
 # Tetron
-A tetris clone produced by using godot engine
+A Tetris clone produced by using godot engine
